@@ -12,11 +12,12 @@ Introductory materials for docker and kubernates technology
 
 It is simple! next step is installing minikube. 
 
-[Getting Started with Kubernetes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html-single/getting_started_with_kubernetes/index)
-
 [Installing Kubernetes with Minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/)
 
 ## Usage
+
+- [Deploying to Kubernetes](https://docs.docker.com/get-started/part3/)
+- [Getting Started with Kubernetes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_atomic_host/7/html-single/getting_started_with_kubernetes/index)
 
 ## Tips
 
